@@ -11,13 +11,13 @@
 
 ## 🛠 Git Command
 
-* `A` - [amend](https://backlog.com/git-tutorial/kr/stepup/stepup7_1.html) (Amend last commit): 가장 최근의 Commit 작업에 대하여 수정을 할 수 있는 명령어입니다. 스테이지에 올린 변경사항이 기존 커밋 작업에 추가되어 덮어씌워집니다.
+* `A` → [amend](https://backlog.com/git-tutorial/kr/stepup/stepup7_1.html) (Amend last commit): 가장 최근의 Commit 작업에 대하여 수정을 할 수 있는 명령어입니다. 스테이지에 올린 변경사항이 기존 커밋 작업에 추가되어 덮어씌워집니다.
 
-* `C` - [cherry-pick](https://backlog.com/git-tutorial/kr/stepup/stepup6_4.html): 다른 브랜치(Branch)에서 지정한 커밋을 복사하여 현재 작업중인 브랜치(Branch)로 가져오는 경우 사용하는 명령어입니다. 
+* `C` → [cherry-pick](https://backlog.com/git-tutorial/kr/stepup/stepup6_4.html): 다른 브랜치(Branch)에서 지정한 커밋을 복사하여 현재 작업중인 브랜치(Branch)로 가져오는 경우 사용하는 명령어입니다. 
   * 해당 명령어는 특정 브랜치(Branch) 잘못 추가한 커밋으로 올바른 브랜치(Branch)로 옮기는 경우에 사용합니다.
   * 다른 브랜치(Branch)의 커밋 작업을 현재 브랜치(Branch)에 추가하여 작업을 수행하는 경우에 사용합니다.
 
-* `R` - [reset](https://git-scm.com/book/ko/v2/Git-도구-Reset-명확히-알고-가기): 이전의 작업을 수행 한 특정 커밋 시점으로 브랜치(Branch)의 작업환경을 변경하는 명령어입니다. 
+* `R` → [reset](https://git-scm.com/book/ko/v2/Git-도구-Reset-명확히-알고-가기): 이전의 작업을 수행 한 특정 커밋 시점으로 브랜치(Branch)의 작업환경을 변경하는 명령어입니다. 
   * `[Mixed]` 모드는 변경사항을 작업 스테이지 아래로 두어서 다시 사용자가 커밋 작업을 수행 할 파일을 추가할 수 있도록 합니다. 
   * `[Soft]` 모드는 변경사항을 다시 작업 스테이지의 위로 올려서 바로 커밋 작업을 수행할 수 있도록 합니다. 
   * `[Hard]` 모드는 현재 작업중인 모든 변경 사항을 폐기하며 일반적으로 많이 사용하고 있습니다.
