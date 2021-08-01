@@ -11,10 +11,11 @@
 
 ## 🛠 Git Command
 
-* amend(Amend last commit): 가장 최근의 Commit 작업에 대하여 수정을 할 수 있는 명령어입니다. 스테이지에 올린 변경사항이 기존 커밋 작업에 추가되어 덮어씌워집니다.
+* [amend](https://backlog.com/git-tutorial/kr/stepup/stepup7_1.html) (Amend last commit): 가장 최근의 Commit 작업에 대하여 수정을 할 수 있는 명령어입니다. 스테이지에 올린 변경사항이 기존 커밋 작업에 추가되어 덮어씌워집니다.
 
 ## 🛠 Git 용어 정리 
 
 ## :mega: REFERENCE
+
 * [Git - Wikipedia](https://ko.wikipedia.org/wiki/깃_(소프트웨어))
 * [팀 개발을 위한 Git GitHub 시작하기, 한빛미디어, 정호영, 진유림](https://book.naver.com/bookdb/book_detail.nhn?bid=15986509)
