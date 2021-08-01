@@ -24,6 +24,7 @@
 
 * `R` → [revert](https://backlog.com/git-tutorial/kr/stepup/stepup7_2.html): 이전의 작업을 수행 한 특정 커밋 시점으로 브랜치(Branch)의 작업환경을 변경하는 명령어이며 `reset` 명령어와는 다르게 이전 시점으로 변경에 대한 커밋 기록이 추가되는 차이점이 있습니다.
 
+* `S` → [stash](https://git-scm.com/book/ko/v2/Git-도구-Stashing과-Cleaning): 커밋하지 않은 변경 사항들을 임시 저장소에 보관하는 명령어입니다. 하지만, Tracked 상태인 작업 파일들에 대해서만 사용할 수 있습니다.
 
 ## 🛠 Git 용어 정리 
 
