@@ -28,11 +28,11 @@
 
 ## 🛠 Git 용어 정리 
 
-* [rebase](https://backlog.com/git-tutorial/kr/stepup/stepup2_8.html): `Pull requests` 작업을 수행 시 하나의 브랜치(Branch) 줄기에 다른 브랜치(Branch) 커밋 베이스를 잘라내어 하나로 만드는 작업을 수행하는 명령어입니다. `merge` 명령어와의 차이점은 `Pull requests` 작업 시 충돌(Conflict) 발생 시 수정에 대한 커밋 이력이 남지만 `rebase`는 그러한 이력이 남지 않습니다.
-
-|📷 IMAGE 001|📷 IMAGE 002|📷 IMAGE 003|
-|:----------:|:----------:|:----------:|
+|📷 rebase IMAGE 001|📷 rebase IMAGE 002|📷 rebase IMAGE 003|
+|:-----------------:|:-----------------:|:------------------:|
 |![image](https://user-images.githubusercontent.com/20036523/127768643-40f0d3b0-5e22-4533-a93d-b5c34db990b4.png)|![image](https://user-images.githubusercontent.com/20036523/127768664-9b71c68b-dc73-4d99-babe-e4bc2c40019e.png)|![image](https://user-images.githubusercontent.com/20036523/127768673-1905367b-2f88-4cc2-8bbe-0b0e17dd2e9f.png)|
+
+* [rebase](https://backlog.com/git-tutorial/kr/stepup/stepup2_8.html): `Pull requests` 작업을 수행 시 하나의 브랜치(Branch) 줄기에 다른 브랜치(Branch) 커밋 베이스를 잘라내어 하나로 만드는 작업을 수행하는 명령어입니다. `merge` 명령어와의 차이점은 `Pull requests` 작업 시 충돌(Conflict) 발생 시 수정에 대한 커밋 이력이 남지만 `rebase`는 그러한 이력이 남지 않습니다.
 
 ## :mega: REFERENCE
 
