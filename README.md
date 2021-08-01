@@ -49,9 +49,9 @@
 * `L` → [log](https://git-scm.com/book/ko/v2/Git의-기초-커밋-히스토리-조회하기): 현재 작업중인 브랜치(Branch)의 커밋 이력을 확인할 수 있는 명령어입니다.
   * `git log -n <NUMBER>`: 전체 커밋에 대하여 최신의 N개까지의 커밋 이력을 확인하는 명령어입니다.
   * `git log --oneline --graph --decorate -all`: 브랜치(Branch)의 커밋 이력을 한 눈에 보기 쉽게 표시하는 명령어입니다.
-    * --oneline: 커밋 메시지를 한 줄로 요약해서 보여주는 옵션입니다.
-    * --graph: 커밋 옆에 브랜치(Branch)의 흐름으 그래프로 나타냅니다.
-    * --decorate: 브랜치(Branch)와 태그(Tag) 등의 참조를 간결하게 나타냅니다.
+    * `--oneline`: 커밋 메시지를 한 줄로 요약해서 보여주는 옵션입니다.
+    * `--graph`: 커밋 옆에 브랜치(Branch)의 흐름으 그래프로 나타냅니다.
+    * `--decorate`: 브랜치(Branch)와 태그(Tag) 등의 참조를 간결하게 나타냅니다.
 
 * `H` → [help](https://git-scm.com/book/ko/v2/시작하기-도움말-보기): Git에서 사용되는 각 명령어들에 대한 도움말을 볼 수 있는 명령어입니다.
   * `git help <command>`: 해당 명령엉 대항 사용자 도움말을 표시합니다. 사용자 도움말에는 명령엉 대한 의미와 세부적인 옵션들을 안내합니다.
