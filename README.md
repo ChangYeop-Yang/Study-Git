@@ -26,6 +26,8 @@
 
 * `S` → [stash](https://git-scm.com/book/ko/v2/Git-도구-Stashing과-Cleaning): 커밋하지 않은 변경 사항들을 임시 저장소에 보관하는 명령어입니다. 하지만, Tracked 상태인 작업 파일들에 대해서만 사용할 수 있습니다.
 
+* `S` → [status](https://www.atlassian.com/git/tutorials/inspecting-a-repository): 현재 Git 저장소의 상태를 사용자에게 알려주는 명령어입니다.
+
 ## 🛠 Git 용어 정리 
 
 * [branch](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html): 특정 기준에서 줄기를 나누어 독립적인 작업을 수행할 수 있도록 하는 기능입니다.
