@@ -11,6 +11,8 @@
 
 ## 🛠 Git Command
 
+* `I` → [init](https://git-scm.com/book/ko/v2/Git의-기초-Git-저장소-만들기): 현재 폴더에 대하여 Git 작업을 위한 저장소를 생성하는 명령어입니다. 
+
 * `A` → [amend](https://backlog.com/git-tutorial/kr/stepup/stepup7_1.html) (Amend last commit): 가장 최근의 Commit 작업에 대하여 수정을 할 수 있는 명령어입니다. 스테이지에 올린 변경사항이 기존 커밋 작업에 추가되어 덮어씌워집니다.
 
 * `C` → [cherry-pick](https://backlog.com/git-tutorial/kr/stepup/stepup6_4.html): 다른 브랜치(Branch)에서 지정한 커밋을 복사하여 현재 작업중인 브랜치(Branch)로 가져오는 경우 사용하는 명령어입니다. 
