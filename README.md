@@ -66,6 +66,8 @@
 
 ## 🛠 Git 용어 설명
 
+* [HEAD](): 현재 작업 중인 브랜치(Branch)를 가리키는 용어입니다. 즉, HEAD는 현재 작업 중인 브랜치(Branch)의 최근 커밋을 가리킵니다.
+
 * [branch](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html): 특정 기준에서 줄기를 나누어 독립적인 작업을 수행할 수 있도록 하는 기능입니다.
 
 * [working tree](https://backlog.com/git-tutorial/git-workflow/): Git 작업 폴더를 가리키는 용어입니다.
