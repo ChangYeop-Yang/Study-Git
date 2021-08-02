@@ -80,6 +80,7 @@
 * [rebase](https://backlog.com/git-tutorial/kr/stepup/stepup2_8.html): `Pull requests` 작업을 수행 시 하나의 브랜치(Branch) 줄기에 다른 브랜치(Branch) 커밋 베이스를 잘라내어 하나로 만드는 작업을 수행하는 명령어입니다. `merge` 명령어와의 차이점은 `Pull requests` 작업 시 충돌(Conflict) 발생 시 수정에 대한 커밋 이력이 남지만 `rebase`는 그러한 이력이 남지 않습니다. 또한, `rebase` 작업을 완료하기 위해서는 CLI 환경에서 `git push -f [remote branch name]` 명령어 작업을 수행하여야 합니다.
 
   * `rebase` 명령어는 주로 로컬 브랜치(Local Branch)를 깔끔하 정리하기 위해 사용합니다.
+  * `rebase` 명령어는 원격 저장소에 푸시한 브랜치(Branch)는 `rebase` 작업을 하지 않는 것이 원칙입니다.
 
 |📷 rebase IMAGE 001|📷 rebase IMAGE 002|📷 rebase IMAGE 003|
 |:-----------------:|:-----------------:|:------------------:|
