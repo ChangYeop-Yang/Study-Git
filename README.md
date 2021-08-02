@@ -69,7 +69,7 @@
 
 * [HEAD](https://stackoverflow.com/questions/2304087/what-is-head-in-git): 현재 작업 중인 브랜치(Branch)를 가리키는 용어입니다. 즉, HEAD는 현재 작업 중인 브랜치(Branch)의 최근 커밋을 가리킵니다.
    * `HEAD~<NUMBER>`: `HEAD~`은 `HEAD`의 부모 커밋, `HEAD~2`는 두 번째 부모 커밋, `HEAD~<N>`은 N번째 위쪽 조상 커밋이라는 뜻의 명령어이다.
-   * `HEAD^<NUMBER>`: `HEAD^`은 `HEAD`의 부모 커밋, `HEAD^2`는 두 번째 부모 커밋, `HEAD^<N>`은 N번째 위쪽 조상 커밋이라는 뜻으 명령어이다.
+   * `HEAD^<NUMBER>`: `HEAD^`은 `HEAD`의 부모 커밋, `HEAD^2`는 두 번째 부모 커밋, `HEAD^<N>`은 N번째 위쪽 조상 커밋이라는 뜻의 명령어이다.
 
 * [branch](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html): 특정 기준에서 줄기를 나누어 독립적인 작업을 수행할 수 있도록 하는 기능입니다.
 
