@@ -48,6 +48,7 @@
   * `[Hard]` 모드는 현재 작업중인 모든 변경 사항을 폐기하며 일반적으로 많이 사용하고 있습니다.
 
 * `R` → [revert](https://backlog.com/git-tutorial/kr/stepup/stepup7_2.html): 이전의 작업을 수행 한 특정 커밋 시점으로 브랜치(Branch)의 작업환경을 변경하는 명령어이며 `reset` 명령어와는 다르게 이전 시점으로 변경에 대한 커밋 기록이 추가되는 차이점이 있습니다.
+  * 해당 명령어를 사용할 때에는 최신 커밋부터 취소를 하는 것을 권장합니다.
 
 * `S` → [stash](https://git-scm.com/book/ko/v2/Git-도구-Stashing과-Cleaning): 커밋하지 않은 변경 사항들을 임시 저장소에 보관하는 명령어입니다. 하지만, Tracked 상태인 작업 파일들에 대해서만 사용할 수 있습니다.
 
