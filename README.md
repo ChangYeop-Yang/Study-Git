@@ -88,6 +88,6 @@
 
 ## :mega: REFERENCE
 
-* [Git](https://git-scm.com)
-* [Git - Wikipedia](https://ko.wikipedia.org/wiki/깃_(소프트웨어))
-* [팀 개발을 위한 Git GitHub 시작하기, 한빛미디어, 정호영, 진유림](https://book.naver.com/bookdb/book_detail.nhn?bid=15986509)
+* 🌎 [Git](https://git-scm.com)
+* 🌎 [Git - Wikipedia](https://ko.wikipedia.org/wiki/깃_(소프트웨어))
+* 📚 [팀 개발을 위한 Git GitHub 시작하기, 한빛미디어, 정호영, 진유림](https://book.naver.com/bookdb/book_detail.nhn?bid=15986509)
